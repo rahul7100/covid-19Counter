@@ -1,3 +1,3 @@
 Demo App for Covid 19 cases updates state wise.
 
-Source :- covid19india.org
+Api used :- covid19india.org
